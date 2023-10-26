@@ -2,8 +2,8 @@
 
 **`Software Developer | MSc Computer Science Student`**
 
-🧪 I’m currently working on my MSc project, a comprehensive full-stack web application<br>
-🤖 I’m currently learning React<br>
+🧪 I’m a Software Developer pursuing my MSc Computer Science from University College Dublin<br>
+🤖 I’m always learning about Software Design Principles and how to write better code<br>
 👯 I’m open to connect at https://www.linkedin.com/in/dtobrien23<br>
 📫 I'm reachable at dtobrien23@gmail.com<br>
 
