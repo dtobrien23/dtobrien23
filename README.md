@@ -6,7 +6,6 @@
 🤖 I’m currently learning React<br>
 👯 I’m open to connect at https://www.linkedin.com/in/dtobrien23<br>
 📫 I'm reachable at dtobrien23@gmail.com<br>
-📖 Fun fact - I'm a Gothic fiction geek<br>
 
 ---
 
