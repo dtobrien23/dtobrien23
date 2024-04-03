@@ -1,6 +1,6 @@
 # 👨‍💻 Dean O'Brien
 
-**`Software Developer | MSc Computer Science Student`**
+**`Software Developer | MSc Computer Science`**
 
 🧪 I’m a Software Developer with an MSc Computer Science from University College Dublin<br>
 🤖 I’m always learning about Software Design Principles and how to write better code<br>
