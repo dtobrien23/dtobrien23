@@ -4,7 +4,7 @@
 
 🧪 I’m a Software Developer with an MSc Computer Science from University College Dublin<br>
 🤖 I’m always learning about Software Design Principles and how to write better code<br>
-👯 I’m open to connect at https://www.linkedin.com/in/dtobrien23<br>
+👯 I’m open to connect at https://linkedin.com/in/dtobrien23<br>
 📫 I'm reachable at dtobrien23@gmail.com<br>
 
 ---
